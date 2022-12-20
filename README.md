@@ -104,5 +104,5 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 * <b>Shutter Release</b>: <p align="justify"> Connects Remote Trigger to Camera. 
 
 ### 2.3 Functional Diagram
-![contents](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/FunctionalDiagram.pdf)
+![embed]https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/FunctionalDiagram.pdf[/embed]
 
