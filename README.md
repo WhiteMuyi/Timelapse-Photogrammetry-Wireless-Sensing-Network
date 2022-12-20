@@ -71,6 +71,13 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Power supply 	| Connection socket 	| [889-1049-1-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT62-16-0122/2125221) 	| 1 	| Lab owned 	| -	| $0.44 	|
 | Power supply 	| Ring terminals 	| [GB 75-106](https://www.homedepot.com/s/GB%2075-106) 	| 2 	| Home Depot 	|  -	|  -	|
 | Power supply 	| Cable gland 	| [AIO-CSM12-ND](https://www.digikey.com/en/products/detail/amphenol-industrial-operations/AIO-CSM12/3904956) 	| 1 	| Lab owned	| -  	| $1.71 	|
-| Power supply 	| Zip tie 	| - 	| - 	| - 	| Zip ties are used to secure the solar panel to the tripod. 	| -	|
+| Miscellaneous	| Zip tie 	| - 	| - 	| - 	| Zip ties are used to secure the solar panel to the tripod. 	| -	|
+| Miscellaneous	| Electrical tape 	| - 	| - 	| Lab owned 	|  - | - 	|
+| Miscellaneous	| Shrink wrap 	| [B072PCQ2LW](https://www.amazon.com/560PCS-Heat-Shrink-Tubing-Eventronic/dp/B072PCQ2LW) 	| 1 	| Amazon 	| Shrink wraps prevent the exposure of soldered connections. 	|  $6.99	|
+| Miscellaneous	| Gorilla epoxy 	| - 	| 1 	| Home Depot 	| Epoxy is applied to create waterproof connections. 	|  	|
+| Miscellaneous	| Dessicant 	| - 	| 1 	| - 	|  -	| -	|
+| Miscellaneous	| Solder machine 	| Metcal MX 500S 	| 1 	| Lab owned 	|  -	| -	|
+| Miscellaneous	| Solder 	| - 	| - 	| Lab owned 	|  -	| -	|
+| Miscellaneous	| Heat gun 	| [B078S5QMFG](https://www.amazon.com/SEEKONE-Heat-Gun-Hot-Air/dp/B078S5QMFG) 	| 1 	| Amazon 	|  Shrink wrap. 	| $28.99 |
 
 
