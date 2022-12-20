@@ -1,5 +1,11 @@
-<p align="left">
-</p>
+/*text align justify */
+.text-align-justify {
+    text-align: justify;
+    text-align-last: justify;
+}
+.text-align-justify .inner-item {
+    display: inline-block;
+}
 
 # Timelapse-Photogrammetry-Wireless-Sensing-Network
 
