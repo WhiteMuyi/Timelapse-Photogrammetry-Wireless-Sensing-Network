@@ -31,3 +31,19 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 
 #### 2.1.1 Bill of Materials
 **Table 1.** Components making up version 3.0 of the TPWSNSys. Prices current as of December, 2022 and do not include taxes and/or shipping.
+|   Category  	|    Component    	|  Part Number 	| Quantity 	|    Vendor   	| Price |
+|:-----------:	|:---------------:	|:------------:	|:--------:	|:-----------:	|---	|
+| Electronics 	| [Arduio Uno](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/)| B008GRTSV6   	|     1    	| Amazon|  $28.50	|
+|             	| DSLR Camera     	| Nikon D5600  	|     1    	| -           	|   	|
+|             	| PCB          	| RFP12N10L-ND 	|     1    	| Digikey     	|   	|
+|             	| Mosfet          	| RFP12N10L-ND 	|     1    	| Digikey     	|   	|
+|             	| Optocoupler     	| 4N25VS-ND    	|     1    	| Digikey     	|   	|
+|             	| DC/DC converter 	| 1951-2432-ND 	|     1    	| Digikey     	|   	|
+|             	| Shutter release 	| B017O7LDCA   	|     1    	| Amazon      	|   	|
+|             	| DC coupler      	| B071HP6F3L   	|     1    	| Amazon      	|   	|
+|             	| GPS             	| GPS-13670    	|     1    	| Spark Fun   	|   	|
+|             	| JST jumper wire 	| PRT-10361    	|     1    	| Spark Fun   	|   	|
+|             	| LED             	| -            	|     1    	| Lab owned   	|   	|
+|             	| 1k-ohm Resistor 	| -            	|     2    	| Lab owned   	|   	|
+|             	| Nanuk case      	| 915-001      	|     1    	| Nanuk       	|   	|
+|             	| Insulation      	| U0jtIh_T9gQ  	|     1    	| Second Skin 	|   	|
