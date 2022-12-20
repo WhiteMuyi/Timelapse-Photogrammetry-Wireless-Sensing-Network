@@ -81,23 +81,23 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Miscellaneous	| Heat gun 	| [B078S5QMFG](https://www.amazon.com/SEEKONE-Heat-Gun-Hot-Air/dp/B078S5QMFG) 	| 1 	| Amazon 	|  Shrink wrap. 	| $28.99 |
 
 ### 2.2 Electronics' Purpose
-* <b>Solar Panel</b>:  Solar panels use sunlight as a source of energy to generate direct current electricity. A collection of PV modules is called a PV panel, and a system of PV panels is called an array. Arrays of a photovoltaic system supply solar electricity to electrical equipment.
+* <b>Solar Panel</b>:  <p align="justify"> Solar panels use sunlight as a source of energy to generate direct current electricity. A collection of PV modules is called a PV panel, and a system of PV panels is called an array. Arrays of a photovoltaic system supply solar electricity to electrical equipment.
   
-* <b>Sun Saver 6</b>:  It’s a 12V PWM charge controller. Pulse Width Modulation (PWM) is the most effective means to achieve constant voltage battery charging by switching the solar system controller's power devices. When in PWM regulation, the current from the solar array tapers according to the battery's condition and recharging needs. When a battery voltage reaches the regulation setpoint, the PWM algorithm slowly reduces the charging current to avoid heating and gassing of the battery, yet the charging continues to return the maximum amount of energy to the battery in the shortest time. The result is a higher charging efficiency, rapid recharging, and a healthy battery at full capacity.
+* <b>Sun Saver 6</b>:  <p align="justify"> It’s a 12V PWM charge controller. Pulse Width Modulation (PWM) is the most effective means to achieve constant voltage battery charging by switching the solar system controller's power devices. When in PWM regulation, the current from the solar array tapers according to the battery's condition and recharging needs. When a battery voltage reaches the regulation setpoint, the PWM algorithm slowly reduces the charging current to avoid heating and gassing of the battery, yet the charging continues to return the maximum amount of energy to the battery in the shortest time. The result is a higher charging efficiency, rapid recharging, and a healthy battery at full capacity.
   
 * <b>Power Sonic</b>: Battery. Storage electricity and provide it to future use. 
   
-* <b>MOSFET</b>: The function of MOSFET is to control whether the circuit is connected or not by voltage. There are two kinds of MOSFET: NMOSFET and PMOSFET. 
+* <b>MOSFET</b>: <p align="justify"> The function of MOSFET is to control whether the circuit is connected or not by voltage. There are two kinds of MOSFET: NMOSFET and PMOSFET. 
   RFP12N10L is a NMOSFET. This performance is accomplished through a special gate oxide design which provides full rated conduction at gate biases in the 3V to 5V range.
   
-* <b>DC-Converter</b>: DC-to-DC converter is an electronic circuit or electromechanical device that converts a source of direct current (DC) from one voltage level to another. It is a type of electric power converter. Power levels range from very low (small batteries) to very high (high-voltage power transmission).
+* <b>DC-Converter</b>: <p align="justify"> DC-to-DC converter is an electronic circuit or electromechanical device that converts a source of direct current (DC) from one voltage level to another. It is a type of electric power converter. Power levels range from very low (small batteries) to very high (high-voltage power transmission).
   
 * <b>DC Coupler</b>: Enable continuous power from DC power source and enable camera use without recharging batteries. 
   
-* <b>GPS</b>: It is one of the global navigation satellite systems (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites.
+* <b>GPS</b>: <p align="justify"> It is one of the global navigation satellite systems (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites.
   The power control feature of GP-735 is very convenient to turn on/off power just via GPIO control pin. It’s especially useful to turn off power as the GPS function is not needed in the host applications.
   
-* <b>Optocoupler</b>: An optocoupler is a semiconductor device that allows an electrical signal to be transmitted between two isolated circuits. It can control high currents with low currents without an electrical connection between two circuits and it provides electrical isolation to these two circuits. I think in this situation, the camera draws a high current for the Arduino to control directly. In this way we use an optocoupler here. 
+* <b>Optocoupler</b>: <p align="justify"> An optocoupler is a semiconductor device that allows an electrical signal to be transmitted between two isolated circuits. It can control high currents with low currents without an electrical connection between two circuits and it provides electrical isolation to these two circuits. I think in this situation, the camera draws a high current for the Arduino to control directly. In this way we use an optocoupler here. 
   
 * <b>Shutter Release</b>: Connects Remote Trigger to Camera. 
 
