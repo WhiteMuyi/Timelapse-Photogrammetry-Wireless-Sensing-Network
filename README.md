@@ -33,17 +33,18 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 **Table 1.** Components making up version 3.0 of the TPWSNSys. Prices current as of December, 2022 and do not include taxes and/or shipping.
 |   Category  	|    Component    	|  Part Number 	| Quantity 	|    Vendor   	| Price |
 |:-----------:	|:---------------:	|:------------:	|:--------:	|:-----------:	|---	|
-| Electronics 	| [Arduio Uno](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/)| B008GRTSV6   	|     1    	| Amazon|  $28.50	|
-|             	| DSLR Camera     	| Nikon D5600  	|     1    	| -           	|   	|
-|             	| PCB          	| RFP12N10L-ND 	|     1    	| Digikey     	|   	|
-|             	| Mosfet          	| RFP12N10L-ND 	|     1    	| Digikey     	|   	|
-|             	| Optocoupler     	| 4N25VS-ND    	|     1    	| Digikey     	|   	|
-|             	| DC/DC converter 	| 1951-2432-ND 	|     1    	| Digikey     	|   	|
-|             	| Shutter release 	| B017O7LDCA   	|     1    	| Amazon      	|   	|
-|             	| DC coupler      	| B071HP6F3L   	|     1    	| Amazon      	|   	|
-|             	| GPS             	| GPS-13670    	|     1    	| Spark Fun   	|   	|
-|             	| JST jumper wire 	| PRT-10361    	|     1    	| Spark Fun   	|   	|
-|             	| LED             	| -            	|     1    	| Lab owned   	|   	|
-|             	| 1k-ohm Resistor 	| -            	|     2    	| Lab owned   	|   	|
-|             	| Nanuk case      	| 915-001      	|     1    	| Nanuk       	|   	|
-|             	| Insulation      	| U0jtIh_T9gQ  	|     1    	| Second Skin 	|   	|
+| Electronics 	| Arduio Uno| [B008GRTSV6](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/) |  1	| Amazon|  $28.50	|
+| Electronics	| DSLR Camera| [Nikon D5600](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5600.html) | 1 | Nikon | $669.95|
+| Electronics  | PCB | [Custom TPWSNSys Printed Circuit Board](https://jlcpcb.com) 	|     1    	| JLC	|   $5.00	|
+| Electronics 	| Mosfet 	| [RFP12N10L-ND](https://www.digikey.com/en/products/detail/onsemi/RFP12N10L/458764) 	| 1 	| Digikey 	|  $1.17	|
+| Electronics 	| Optocoupler 	| [4N25VS-ND](https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/4N25/1738516) 	| 1 	| Digikey 	| $0.40	|
+| Electronics 	| DC/DC converter 	| [1951-2432-ND](https://www.digikey.com/en/products/detail/traco-power/TSRN-1-2490/9383467) 	| 1 	| Digikey 	|  $11.75	|
+| Electronics 	| Shutter release 	| [B017O7LDCA](https://www.amazon.com/Foto-Tech-2-5mm-N3-Control-Shutter/dp/B017O7LDCA/) 	| 1 	| Amazon 	| $9.99 	|
+| Electronics 	| DC coupler 	| [B071HP6F3L](https://www.amazon.com/EP-5A-Adapter-Battery-Replacement-EN-EL14a/dp/B071HP6F3L) 	| 1 	| Amazon 	| $32.99 	|
+| Electronics 	| GPS 	| [GPS-13670](https://www.sparkfun.com/products/13670) 	| 1 	| Spark Fun 	|  $49.50	|
+| Electronics 	| JST jumper wire 	| [PRT-10361](https://www.sparkfun.com/products/10361) 	| 1 	| Spark Fun 	|  $1.60	|
+| Electronics 	| LED 	| - 	| 1 	| Lab owned 	| -	|
+| Electronics 	| 1k-ohm Resistor 	| - 	| 2 	| Lab owned 	| -	|
+| Electronics 	| Micro SD Adapter 	| [B01IPCAP72](https://www.amazon.com/Storage-Memory-Shield-Module-Arduino/dp/B01IPCAP72) 	| 1 | Amazon 	| $1.50	|
+| Electronics 	| 2 Pin terminal block 	| [B08B3JP9QZ](https://www.amazon.com/Terminal-Block-Connector/dp/B08B3JP9QZ) 	| 3	| Amazon 	| $1.20	|
+| Electronics 	| 3 Pin terminal block 	| [B08B3FPKFZ](https://www.amazon.com/Terminal-Block-Connector/dp/B08B3FPKFZ) 	| 2	| Amazon 	| $0.80	|
