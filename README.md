@@ -1,4 +1,5 @@
-<p align="justify">
+<p align="left">
+</p>
 
 # Timelapse-Photogrammetry-Wireless-Sensing-Network
 
