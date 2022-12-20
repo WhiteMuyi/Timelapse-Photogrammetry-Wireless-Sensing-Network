@@ -9,6 +9,7 @@ The Timelapse Photogrammetry Wireless Sensing Network System (TPWSNSys) is a low
 
 In this project, we designed a camera that can provide ground-truth data to compare with large-scale, systematic remote sensing data products. By doing this, we targeted to assess the accuracy of these global products, filter the noise, and developed methods to improve these satellite-based datasets.
 </p>
+
 ## 2.0 Methods
 
 ### 2.1 Design
