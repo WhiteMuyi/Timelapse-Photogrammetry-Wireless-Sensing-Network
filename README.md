@@ -48,3 +48,18 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Electronics 	| Micro SD Adapter 	| [B01IPCAP72](https://www.amazon.com/Storage-Memory-Shield-Module-Arduino/dp/B01IPCAP72) 	| 1 | Amazon 	| $1.50	|
 | Electronics 	| 2 Pin terminal block 	| [B08B3JP9QZ](https://www.amazon.com/Terminal-Block-Connector/dp/B08B3JP9QZ) 	| 3	| Amazon 	| $1.20	|
 | Electronics 	| 3 Pin terminal block 	| [B08B3FPKFZ](https://www.amazon.com/Terminal-Block-Connector/dp/B08B3FPKFZ) 	| 2	| Amazon 	| $0.80	|
+
+**Table 2.** Components making up the enclosure, mounting and power systems for TPWSNSys Version 3.0.
+| Category 	| Component 	| Part Number 	| Quantity 	| Vendor 	| Discription 	| Price 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|---	|---	|
+| Enclosure 	| Nanuk Case 	| [915-001](https://nanuk.com/products/nanuk-915) 	| 1 	| Nanuk 	|  Case to protect the system 	| $94.95	|
+| Enclosure 	| Insulation 	| [U0jtIh_T9gQ](https://www.secondskinaudio.com/heat-insulation/heat-wave-pro) 	| Variable 	| Second Skin 	|   Thermal Insulation	| $79.99/24 sq ft	|
+| Enclosure 	| Tripod 	| [B07FN8DJ58](https://www.amazon.com/Tri-Max-Universal-Elevator-Tripod-90558/dp/B07FN8DJ58) 	| 1 	| Amazon	|  -	| $599.98 	|
+| Enclosure	| Aluminum plate 	| 9246K472 	| 1 	| McMaster Carr 	| Mouting   plate for the tripod. 	|  	|
+| Enclosure 	| Aluminum plate 	| 89015K233 	| 1 	| McMaster Carr 	| Base   place attached to the enclosure to secure the camera. 	|  	|
+| Enclosure 	| Plexiglass 	| - 	| 1 	| Home Depot 	| Plexiglass   is used for camera window. 	|  	|
+| Enclosure 	| Steel hex nuts 	| 95462A029 	| 1 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  	|
+| Enclosure 	| Steel hex screws 	| 92865A542 	| 1 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  	|
+| Enclosure 	| Wing nuts 	| - 	| 1 	| Techspark @ CMU 	| 1/4''   - 20 thread size 	|  	|
+| Enclosure 	| Washers 	| - 	| 1 	| Home Depot 	| 1/4''   - 20 thread size 	|  	|
+
