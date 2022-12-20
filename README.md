@@ -1,7 +1,12 @@
 
 # Timelapse-Photogrammetry-Wireless-Sensing-Network
 
+<p align="center">
+  <img src="https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/FirstPage.jpeg" width='50%' height='50%'/>
+</p>
+<!--
 ![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/FirstPage.jpeg)
+-->
 
 ## 1.0 Introduction
 <p align="justify"> 
