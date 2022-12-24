@@ -43,8 +43,8 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Electronics 	| DC coupler 	| [B071HP6F3L](https://www.amazon.com/EP-5A-Adapter-Battery-Replacement-EN-EL14a/dp/B071HP6F3L) 	| 1 	| Amazon 	| $32.99 	|
 | Electronics 	| GPS 	| [GPS-13670](https://www.sparkfun.com/products/13670) 	| 1 	| Spark Fun 	|  $49.50	|
 | Electronics 	| JST jumper wire 	| [PRT-10361](https://www.sparkfun.com/products/10361) 	| 1 	| Spark Fun 	|  $1.60	|
-| Electronics 	| LED 	| - 	| 1 	| Lab owned 	| -	|
-| Electronics 	| 1k-ohm Resistor 	| - 	| 2 	| Lab owned 	| -	|
+| Electronics 	| LED 	| [	LN0628](https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH?th=1)	| 1 	| Amazon 	| $7.59/ 100 pieces	|
+| Electronics 	| 1k-ohm Resistor 	| [13-CFR-50JR-52-1KTR](https://www.digikey.com/en/products/detail/yageo/CFR-50JR-52-1K/9099443) 	| 2 	| Digikey	| $0.22/ 2 |
 | Electronics 	| Micro SD Adapter 	| [B01IPCAP72](https://www.amazon.com/Storage-Memory-Shield-Module-Arduino/dp/B01IPCAP72) 	| 1 | Amazon 	| $1.50	|
 | Electronics 	| 2 Pin terminal block 	| [B08B3JP9QZ](https://www.amazon.com/Terminal-Block-Connector/dp/B08B3JP9QZ) 	| 3	| Amazon 	| $1.20	|
 | Electronics 	| 3 Pin terminal block 	| [B08B3FPKFZ](https://www.amazon.com/Terminal-Block-Connector/dp/B08B3FPKFZ) 	| 2	| Amazon 	| $0.80	|
@@ -67,12 +67,12 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Power supply 	| Solar panel 	| [RNG-100D-SS-US](https://www.amazon.com/Renogy-Monocrystalline-Solar-Compact-Design/dp/B07GF5JY35) 	| 1 	| Amazon 	|   Change solar energy into electrical energy	| $84.99 	|
 | Power supply 	| 12 AWG chords 	| [B074GG48F2](https://www.amazon.com/BNTECHGO-Silicone-Flexible-Strands-Stranded/dp/B01ABOPMEI/) 	| 3 	| Amazon 	| Connect between battery and solar panel	|  $12.98	|
 | Power supply 	| Connection receptacle 	| [889-1000-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT04-2P/2125172) 	| 1 	| Digikey	| Connection receptacle, plug and socket are for the water-proof connection from solar panel to solar controller. | $0.61 	|
-| Power supply 	| Connection plug 	| [889-1012-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT06-2S/2125184) 	| 1 	| Lab owned 	| -	| $0.68	|
-| Power supply 	| Connection socket 	| [889-1049-1-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT62-16-0122/2125221) 	| 1 	| Lab owned 	| -	| $0.44 	|
+| Power supply 	| Connection plug 	| [889-1012-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT06-2S/2125184) 	| 1 	| Digikey 	| -	| $0.68	|
+| Power supply 	| Connection socket 	| [889-1049-1-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT62-16-0122/2125221) 	| 1 	| Digikey 	| -	| $0.44 	|
 | Power supply 	| Ring terminals 	| [432306](https://www.homedepot.com/p/Gardner-Bender-12-10-AWG-12-1-4-Stud-Size-Vinyl-Insulated-Ring-Terminals-Yellow-15-Pack-15-107/202522877) 	| 2 	| Home Depot 	|  Link SunSaver with Battery	|  $4.38/ 15 pieces	|
 | Power supply 	| Cable gland 	| [AIO-CSM12-ND](https://www.digikey.com/en/products/detail/amphenol-industrial-operations/AIO-CSM12/3904956) 	| 2	| Digikey	| Link SunSaver with Solar Panel  	| $1.71/ 1 	|
-| Miscellaneous	| Zip tie 	| Hope Depot 	| [1004137721](https://www.homedepot.com/p/HDX-14-in-UV-Resist-Zip-Ties-Black-20-Pack-FT-370STUV-20/307799374)	| - 	| Zip ties are used to secure the solar panel to the tripod. 	| $4.21/ 20 pieces	|
-| Miscellaneous	| Electrical tape 	| [1003142024](https://www.homedepot.com/p/Scotch-Super-33-3-4-in-x-66-ft-x-0-007-in-Vinyl-Electrical-Tape-Black-6132-BA-10/304653556) 	| - 	| Home Depot 	|  - | $8.32 	|
+| Miscellaneous	| Zip tie 	| [1004137721](https://www.homedepot.com/p/HDX-14-in-UV-Resist-Zip-Ties-Black-20-Pack-FT-370STUV-20/307799374) 	| Home Depot	| 3-5 	| Zip ties are used to secure the solar panel to the tripod. 	| $4.21/ 20 pieces	|
+| Miscellaneous	| Electrical tape 	| [1003142024](https://www.homedepot.com/p/Scotch-Super-33-3-4-in-x-66-ft-x-0-007-in-Vinyl-Electrical-Tape-Black-6132-BA-10/304653556) 	| 1 	| Home Depot 	|  - | $8.32 	|
 | Miscellaneous	| Shrink wrap 	| [B072PCQ2LW](https://www.amazon.com/560PCS-Heat-Shrink-Tubing-Eventronic/dp/B072PCQ2LW) 	| 1 	| Amazon 	| Shrink wraps prevent the exposure of soldered connections. 	|  $6.99	|
 | Miscellaneous	| Gorilla epoxy 	| [757442](https://www.homedepot.com/p/Gorilla-0-85-fl-oz-Epoxy-42001/100670610) 	| 1 	| Home Depot 	| Epoxy is applied to create waterproof connections. 	| $7.48 	|
 | Miscellaneous	| Dessicant 	| - 	| 1 	| - 	|  -	| -	|
