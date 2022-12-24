@@ -56,28 +56,26 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Enclosure 	| Insulation 	| [U0jtIh_T9gQ](https://www.secondskinaudio.com/heat-insulation/heat-wave-pro) 	| Variable 	| Second Skin 	|   Thermal Insulation	| $79.99/24 sq ft	|
 | Enclosure 	| Tripod 	| [B07FN8DJ58](https://www.amazon.com/Tri-Max-Universal-Elevator-Tripod-90558/dp/B07FN8DJ58) 	| 1 	| Amazon	|  -	| $599.98 	|
 | Enclosure	| Aluminum plate 	| [9246K472](https://www.mcmaster.com/catalog/128/4070) 	| 1 	| McMaster Carr 	| Mouting   plate for the tripod. 	| - 	|
-| Enclosure 	| Aluminum plate 	| [89015K233](https://www.mcmaster.com/catalog/128/4069) 	| 1 	| McMaster Carr 	| Base   place attached to the enclosure to secure the camera. 	|  $4.8/4'' x 4''	|
-| Enclosure 	| Plexiglass 	| [Recommandation](https://www.homedepot.com/b/Building-Materials-Glass-Plastic-Sheets-Plexiglass/N-5yc1vZc9x2) 	| 1 	| Home Depot 	| Plexiglass   is used for camera window. 	| -	|
-| Enclosure 	| Steel hex nuts 	| [95462A029](https://www.mcmaster.com/catalog/128/3497) 	| 1 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  $10.93/50 pieces	|
-| Enclosure 	| Steel hex screws 	| [92865A542](https://www.mcmaster.com/catalog/128/3440) 	| 1 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  $13.26/100 pieces	|
-| Enclosure 	| Wing nuts 	| - 	| 1 	| Techspark @ CMU 	| 1/4''   - 20 thread size 	| -	|
-| Enclosure 	| Washers 	| - 	| 1 	| Lab Owned 	| 1/4''   - 20 thread size 	| -	|
+| Enclosure 	| Aluminum plate 	| [89015K233](https://www.mcmaster.com/catalog/128/4069) 	| 1 	| McMaster Carr 	| Base   place attached to the enclosure to secure the camera. 	|  $4.8/ 4''x 4''	|
+| Enclosure 	| Plexiglass 	| [Recommandation](https://www.homedepot.com/b/Building-Materials-Glass-Plastic-Sheets-Plexiglass/N-5yc1vZc9x2) 	| 1 	| Home Depot 	| Plexiglass   is used for camera window. 	| $0.4/ 4''x3''	|
+| Enclosure 	| Steel hex nuts 	| [95462A029](https://www.mcmaster.com/catalog/128/3497) 	| 6 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  $10.93/50 pieces	|
+| Enclosure 	| Steel hex screws 	| [92865A542](https://www.mcmaster.com/catalog/128/3440) 	| 8 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  $13.26/100 pieces	|
+| Enclosure 	| Wing nuts 	| [215175](https://www.homedepot.com/p/Everbilt-1-4-in-20-Zinc-Plated-Wing-Nut-4-Pack-802371/204274202) 	| 2 	| Home Depot 	| 1/4''   - 20 thread size 	| $1.38/ 4 pieces	|
+| Enclosure 	| Washers 	| [246799](https://www.homedepot.com/p/Everbilt-1-4-in-Stainless-Steel-Flat-Washer-6-Pack-800341/204276462) 	| 6 	| Home Depot 	| 1/4''   - 20 thread size 	| $1.36/ 6 pieces	|
 | Power supply 	| Battery 	| [PS-12260NB](https://www.amazon.com/Powersonic-PS-12260NB-26-0Ah-Rechargeable-Battery/dp/B000XB24SW) 	| 1 	| Battery Plus 	|  Provide energy for the whole system 	|  $71.95	|
-| Power supply 	| Solar   controller 	| [SS-6](https://www.solar-electric.com/ss-6.html) 	| 1 | Lab owned 	|  Connect solar panel and battery, keep voltage stable 	| $71.00 	|
+| Power supply 	| Solar   controller 	| [SS-6](https://www.solar-electric.com/ss-6.html) 	| 1 | Northern Arizona Wind & Sun 	|  Connect solar panel and battery, keep voltage stable 	| $71.00 	|
 | Power supply 	| Solar panel 	| [RNG-100D-SS-US](https://www.amazon.com/Renogy-Monocrystalline-Solar-Compact-Design/dp/B07GF5JY35) 	| 1 	| Amazon 	|   Change solar energy into electrical energy	| $84.99 	|
 | Power supply 	| 12 AWG chords 	| [B074GG48F2](https://www.amazon.com/BNTECHGO-Silicone-Flexible-Strands-Stranded/dp/B01ABOPMEI/) 	| 3 	| Amazon 	| Connect between battery and solar panel	|  $12.98	|
-| Power supply 	| Connection receptacle 	| [889-1000-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT04-2P/2125172) 	| 1 	| Lab owned 	| Connection receptacle, plug and socket are for the water-proof connection from solar panel to solar controller. | $0.61 	|
+| Power supply 	| Connection receptacle 	| [889-1000-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT04-2P/2125172) 	| 1 	| Digikey	| Connection receptacle, plug and socket are for the water-proof connection from solar panel to solar controller. | $0.61 	|
 | Power supply 	| Connection plug 	| [889-1012-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT06-2S/2125184) 	| 1 	| Lab owned 	| -	| $0.68	|
 | Power supply 	| Connection socket 	| [889-1049-1-ND](https://www.digikey.com/en/products/detail/amphenol-sine-systems-corp/AT62-16-0122/2125221) 	| 1 	| Lab owned 	| -	| $0.44 	|
-| Power supply 	| Ring terminals 	| [GB 75-106](https://www.homedepot.com/s/GB%2075-106) 	| 2 	| Home Depot 	|  -	|  -	|
-| Power supply 	| Cable gland 	| [AIO-CSM12-ND](https://www.digikey.com/en/products/detail/amphenol-industrial-operations/AIO-CSM12/3904956) 	| 1 	| Lab owned	| -  	| $1.71 	|
-| Miscellaneous	| Zip tie 	| - 	| - 	| - 	| Zip ties are used to secure the solar panel to the tripod. 	| -	|
-| Miscellaneous	| Electrical tape 	| - 	| - 	| Lab owned 	|  - | - 	|
+| Power supply 	| Ring terminals 	| [432306](https://www.homedepot.com/p/Gardner-Bender-12-10-AWG-12-1-4-Stud-Size-Vinyl-Insulated-Ring-Terminals-Yellow-15-Pack-15-107/202522877) 	| 2 	| Home Depot 	|  Link SunSaver with Battery	|  $4.38/ 15 pieces	|
+| Power supply 	| Cable gland 	| [AIO-CSM12-ND](https://www.digikey.com/en/products/detail/amphenol-industrial-operations/AIO-CSM12/3904956) 	| 2	| Digikey	| Link SunSaver with Solar Panel  	| $1.71/ 1 	|
+| Miscellaneous	| Zip tie 	| Hope Depot 	| [1004137721](https://www.homedepot.com/p/HDX-14-in-UV-Resist-Zip-Ties-Black-20-Pack-FT-370STUV-20/307799374)	| - 	| Zip ties are used to secure the solar panel to the tripod. 	| $4.21/ 20 pieces	|
+| Miscellaneous	| Electrical tape 	| [1003142024](https://www.homedepot.com/p/Scotch-Super-33-3-4-in-x-66-ft-x-0-007-in-Vinyl-Electrical-Tape-Black-6132-BA-10/304653556) 	| - 	| Home Depot 	|  - | $8.32 	|
 | Miscellaneous	| Shrink wrap 	| [B072PCQ2LW](https://www.amazon.com/560PCS-Heat-Shrink-Tubing-Eventronic/dp/B072PCQ2LW) 	| 1 	| Amazon 	| Shrink wraps prevent the exposure of soldered connections. 	|  $6.99	|
-| Miscellaneous	| Gorilla epoxy 	| - 	| 1 	| Home Depot 	| Epoxy is applied to create waterproof connections. 	|  	|
+| Miscellaneous	| Gorilla epoxy 	| [757442](https://www.homedepot.com/p/Gorilla-0-85-fl-oz-Epoxy-42001/100670610) 	| 1 	| Home Depot 	| Epoxy is applied to create waterproof connections. 	| $7.48 	|
 | Miscellaneous	| Dessicant 	| - 	| 1 	| - 	|  -	| -	|
-| Miscellaneous	| Solder machine 	| Metcal MX 500S 	| 1 	| Lab owned 	|  -	| -	|
-| Miscellaneous	| Solder 	| - 	| - 	| Lab owned 	|  -	| -	|
 | Miscellaneous	| Heat gun 	| [B078S5QMFG](https://www.amazon.com/SEEKONE-Heat-Gun-Hot-Air/dp/B078S5QMFG) 	| 1 	| Amazon 	|  Shrink wrap. 	| $28.99 |
 
 ### 2.2 Electronics' Purpose
