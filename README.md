@@ -56,7 +56,7 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Enclosure 	| Insulation 	| [U0jtIh_T9gQ](https://www.secondskinaudio.com/heat-insulation/heat-wave-pro) 	| Variable 	| Second Skin 	|   Thermal Insulation	| $79.99/24 sq ft	|
 | Enclosure 	| Tripod 	| [B07FN8DJ58](https://www.amazon.com/Tri-Max-Universal-Elevator-Tripod-90558/dp/B07FN8DJ58) 	| 1 	| Amazon	|  -	| $599.98 	|
 | Enclosure	| Aluminum plate 	| [9246K472](https://www.mcmaster.com/catalog/128/4070) 	| 1 	| McMaster Carr 	| Mouting   plate for the tripod. 	| - 	|
-| Enclosure 	| Aluminum plate 	| [89015K233](https://www.mcmaster.com/catalog/128/4069) 	| 1 	| McMaster Carr 	| Base   place attached to the enclosure to secure the camera. 	|  -	|
+| Enclosure 	| Aluminum plate 	| [89015K233](https://www.mcmaster.com/catalog/128/4069) 	| 1 	| McMaster Carr 	| Base   place attached to the enclosure to secure the camera. 	|  $4.8/4'' x 4''	|
 | Enclosure 	| Plexiglass 	| [Recommandation](https://www.homedepot.com/b/Building-Materials-Glass-Plastic-Sheets-Plexiglass/N-5yc1vZc9x2) 	| 1 	| Home Depot 	| Plexiglass   is used for camera window. 	| -	|
 | Enclosure 	| Steel hex nuts 	| [95462A029](https://www.mcmaster.com/catalog/128/3497) 	| 1 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  $10.93/50 pieces	|
 | Enclosure 	| Steel hex screws 	| [92865A542](https://www.mcmaster.com/catalog/128/3440) 	| 1 	| McMaster Carr 	| 1/4''   - 20 thread size 	|  $13.26/100 pieces	|
