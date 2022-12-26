@@ -130,5 +130,5 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 
 ## 4.0 Deployments
 
-![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/Earth.png)
+![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/Earth.png)
 
