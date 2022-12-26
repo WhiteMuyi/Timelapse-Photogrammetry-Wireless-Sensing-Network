@@ -125,6 +125,10 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 ![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/FunctionalDiagram.png)
 
 ## 3.0 Practical Tutorial
+
 [Step-by-Step Solder Tutorial](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Tutorial/Step-by-Step.md)
 
+## 4.0 Deployments
+
+![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/Earth.png)
 
