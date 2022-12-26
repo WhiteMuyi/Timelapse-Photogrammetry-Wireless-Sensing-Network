@@ -83,7 +83,7 @@ Front                   |  Right                       |  Back
 ### Whole System with Camera & GPS:
 
 
-![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/30.jpg) 
+![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/31.jpg) 
 
 
 
