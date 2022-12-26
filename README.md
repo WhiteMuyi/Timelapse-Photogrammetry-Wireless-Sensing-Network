@@ -80,7 +80,7 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 
 ### 2.2 Electronics' Purpose
 
-![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/3D.png)
+![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/3D.png)
 
 
 * <b>Solar Panel</b>:  <p align="justify"> Solar panels use sunlight as a source of energy to generate direct current electricity. A collection of PV modules is called a PV panel, and a system of PV panels is called an array. Arrays of a photovoltaic system supply solar electricity to electrical equipment.
