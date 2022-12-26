@@ -114,9 +114,10 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
   
 * <b>Optocoupler</b>: <p align="justify"> An optocoupler is a semiconductor device that allows an electrical signal to be transmitted between two isolated circuits. It can control high currents with low currents without an electrical connection between two circuits and it provides electrical isolation to these two circuits. 
    
-   [Optocoupler Datasheet](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/datasheet-4N25.pdf)
-  
   <p align="justify"> The octocoupler serves the function of regulating the opening and closing of the shutter in this system. When a photograph is to be taken, the optocoupler supplies current to the shutter release, which subsequently activates the shutter button.
+    
+  [Optocoupler Datasheet](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/datasheet-4N25.pdf)
+  
   
 * <b>Shutter Release</b>: <p align="justify"> Connects Remote Trigger to Camera. 
 
