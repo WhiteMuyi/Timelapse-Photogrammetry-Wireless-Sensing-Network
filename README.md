@@ -84,6 +84,8 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
    <p align="justify">In this system, solar panel converts solar energy into electricity to charge the battery.
   
 * <b>Sun Saver 6</b>:  <p align="justify"> Sun Saver 6 is a 12V PWM charge controller. Pulse Width Modulation (PWM) is the most effective means to achieve constant voltage battery charging by switching the solar system controller's power devices. When in PWM regulation, the current from the solar array tapers according to the battery's condition and recharging needs. When a battery voltage reaches the regulation setpoint, the PWM algorithm slowly reduces the charging current to avoid heating and gassing of the battery, yet the charging continues to return the maximum amount of energy to the battery in the shortest time. The result is a higher charging efficiency, rapid recharging, and a healthy battery at full capacity.
+   
+   [Sun Saver 6 Datasheet](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/SunSaver6-manual.pdf)
   
 * <b>Power Sonic</b>: <p align="justify"> Battery. Storage electricity and provide it to future use. 
   
