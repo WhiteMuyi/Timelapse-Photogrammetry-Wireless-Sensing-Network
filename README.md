@@ -79,6 +79,10 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 | Miscellaneous	| Heat gun 	| [B078S5QMFG](https://www.amazon.com/SEEKONE-Heat-Gun-Hot-Air/dp/B078S5QMFG) 	| 1 	| Amazon 	|  Shrink wrap. 	| $28.99 |
 
 ### 2.2 Electronics' Purpose
+
+![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Documentation/3D.png)
+
+
 * <b>Solar Panel</b>:  <p align="justify"> Solar panels use sunlight as a source of energy to generate direct current electricity. A collection of PV modules is called a PV panel, and a system of PV panels is called an array. Arrays of a photovoltaic system supply solar electricity to electrical equipment.
   
    <p align="justify">In this system, solar panel converts solar energy into electricity to charge the battery.
