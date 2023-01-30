@@ -6,10 +6,10 @@ Inside             |  Outside
 
 ### Enclosure Detail:
 
-Detail-1             |  Detail-2      
+Close-up of camera lens          |  Close-up of plexiglass      
 :-------------------------:|:-------------------------:
 ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/Detail1.jpg)  |  ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/Detail2.jpg)
 
-Detail-3      |  Detail-4
+Close-up of cable gland      |  Close-up of Miscellaneous
 :-------------------------:|:-------------------------:
 ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/Detail3.jpg)|  ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/Detail4.jpg)
