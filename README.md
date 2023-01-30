@@ -146,6 +146,12 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 
 ## 4.0 Deployments
   
+
+  
+Daily TimeLapes Video:
+https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/DailyTimeLapse.mp4
+
+  
 Deployment-1             |  Deployment-2      
 :-------------------------:|:-------------------------:
 ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/2ndPic.jpeg)  |  ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/3rdPic.jpeg)
