@@ -132,6 +132,8 @@ The Timelapse photogrammetry wireless sensing network is constructed using off-t
 
 [Step-by-Step Solder Tutorial](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Tutorial/Step-by-Step.md)
 
+[Enclusore Install Tutorial](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Tutorial/CaseInstall.md)
+
 [SD-Card Reader Test File](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Tutorial/CardInfotest.ino)
 
 [DC Coupler Test File](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/Tutorial/DCPartTest.ino)
