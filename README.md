@@ -154,5 +154,7 @@ Deployment-3      |  Deployment-4
 :-------------------------:|:-------------------------:
 ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/4thPic.jpeg)|  ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/5thPic.jpeg)
 
+Map of TPWSNSys Deployments
+:-------------------------:
 ![Image](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/Earth.png)
 
