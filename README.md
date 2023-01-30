@@ -152,11 +152,11 @@ Daily TimeLapes Video:
 <video src='https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/DailyTimeLapse.mp4' width=180/>
 
   
-Deployment-1             |  Deployment-2      
+Node-1             |  Node-2      
 :-------------------------:|:-------------------------:
 ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/2ndPic.jpeg)  |  ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/3rdPic.jpeg)
 
-Deployment-3      |  Deployment-4
+Node-3      |  Node-4
 :-------------------------:|:-------------------------:
 ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/4thPic.jpeg)|  ![](https://github.com/WhiteMuyi/Timelapse-Photogrammetry-Wireless-Sensing-Network/blob/main/figure/5thPic.jpeg)
 
